@@ -91,7 +91,7 @@ src/
 
 ## ▶️ How to Run the Project
 
-git clone 
+git clone https://github.com/pratyakshi843/react-auth-landing
 
 cd react-auth-landing
 
