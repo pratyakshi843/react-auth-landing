@@ -6,10 +6,11 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <h2>MyApp</h2>
+      <h2>MyApp ji</h2>
       <button onClick={logout}>Logout</button>
     </nav>
   );
 };
 
 export default Navbar;
+
